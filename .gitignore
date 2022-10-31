@@ -1,0 +1,3 @@
+careamarkenv/
+__pycache__/
+*.sqlite3
